@@ -1,10 +1,18 @@
 
 main {
     font-size: 1.6rem;
+    background-image: url('../assets/images/pattern-background-desktop.svg');
 }
 
 .summary-card{
     width: 25vw;
+}
+
+.summary-card__body {
+    display: inherit;
+    flex-direction: column;
+    padding: 30px 40px;
+    background-color: white;
 }
 
 .summary-card__plan--currency h3 {
