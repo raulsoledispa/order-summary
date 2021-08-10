@@ -1,0 +1,12 @@
+
+main {
+    font-size: 1.6rem;
+}
+
+.summary-card{
+    width: 25vw;
+}
+
+.summary-card__plan--currency h3 {
+    font-size: 1.6rem;
+}
